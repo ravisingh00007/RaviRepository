@@ -1,0 +1,52 @@
+*{
+    font-family: 'Sacramento', cursive;
+    line-height: 1em;
+    word-spacing: .1em;
+   
+}
+
+body{
+   background-color: rgb(136, 230, 230);
+
+}
+
+div.content{
+    font-size: 30px;
+}
+
+/* imd.profile{
+   
+} */
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-item{
+    margin: 10px;
+}
+
+#title{
+    font-size: 300px;
+   
+}
+#intro{
+    margin-top: 2em;
+    padding-bottom: 4em;
+}
+
+#education{
+    margin-top: 2em;
+    padding-bottom: 4em;
+}
+#project{
+    margin-top: 2em;
+    padding-bottom: 4em;
+  color: aliceblue;
+}
+
+#contact{
+    margin-top: 2em;
+    padding-bottom: 4em;
+    color: aliceblue;
+}
